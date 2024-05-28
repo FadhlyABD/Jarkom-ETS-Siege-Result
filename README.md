@@ -40,5 +40,7 @@
 ![c100mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/a14b254f-aef4-4a06-9e46-66d8868cb4dc)
 
 ### c-150 multithread secure
+![c150mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/e1188d0d-c4f1-4db1-9fca-2001ef912200)
 
 ### c-200 multithread secure
+![c200mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/1efd119a-3d7a-4284-885e-b2fdfb0d76bd)
