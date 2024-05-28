@@ -14,3 +14,18 @@
 
 ### c-200 multithread not secure
 ![c200mt](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/f8a20262-8332-42dd-b7a1-707f3bf9d623)
+
+### c-10 multiprocess not secure
+![c10mp](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/5e8a3ad7-0374-4fb7-a76a-4579c0cb55cb)
+
+### c-50 multiprocess not secure
+![c50mp](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/3b82bd25-52a7-45b3-ab10-bf4a02d328db)
+
+### c-100 multiprocess not secure
+![c100mp](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/03e6ccb2-1ef2-499b-b04e-f5c6b5b9f510)
+
+### c-150 multiprocess not secure
+![c150mp](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/0359eaf6-ad9b-49ba-bb90-2bc8689c3748)
+
+### c-200 multiprocess not secure
+![c200mp](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/42b0c105-f967-45e0-8e5a-3b99a23c07f3)
