@@ -44,3 +44,18 @@
 
 ### c-200 multithread secure
 ![c200mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/1efd119a-3d7a-4284-885e-b2fdfb0d76bd)
+
+### c-10 multiprocess secure
+![c10mps](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/2e463a7c-985d-4a19-9864-db9ba3d5b56f)
+
+### c-50 multiprocess secure
+![c50mps](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/d5099571-cadd-4cb0-8ce7-06b3a5cbf5af)
+
+### c-100 multiprocess secure
+![c100mps](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/e5e5586a-cd1a-4c57-9ca8-372b3077bd7e)
+
+### c-150 multiprocess secure
+![c150mps](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/2c1aab4c-c1e7-40d6-8332-f7c087007b89)
+
+### c-200 multiprocess secure
+![c200mps](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/c98f4644-4656-4fc7-b8cd-b748167e3d2e)
