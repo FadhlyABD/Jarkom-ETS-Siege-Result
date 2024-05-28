@@ -1,4 +1,4 @@
-# Jarkom-ETS-Siege-Result
+# Progjar-ETS-Siege-Result
 
 ### c-10 multithread not secure
 ![c10mt](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/b779b0fc-f45a-4913-8810-fb46c802b2bf)
@@ -29,3 +29,16 @@
 
 ### c-200 multiprocess not secure
 ![c200mp](https://github.com/FadhlyABD/Jarkom-ETS-Siege-Result/assets/114162816/42b0c105-f967-45e0-8e5a-3b99a23c07f3)
+
+### c-10 multithread secure
+![c10mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/d8247fff-5b04-49fe-8c12-113d76905e21)
+
+### c-50 multithread secure
+![c50mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/ccf1f23a-c37f-4076-a0f3-c52f3ec604f4)
+
+### c-100 multithread secure
+![c100mts](https://github.com/FadhlyABD/Progjar-ETS-Siege-Result/assets/114162816/a14b254f-aef4-4a06-9e46-66d8868cb4dc)
+
+### c-150 multithread secure
+
+### c-200 multithread secure
